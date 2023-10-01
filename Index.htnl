@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Netflix</title>
+</head>
+<body>
+    <header class="navbar">
+        <div class="container">
+            <img src="netflix-logo.png" alt="Netflix Logo" class="logo">
+            <img src="profile.png" alt="Profile" class="profile">
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Unlimited movies, TV shows, and more.</h1>
+            <p>Watch anywhere. Cancel anytime.</p>
+            <button class="cta-button">Sign Up</button>
+        </div>
+    </section>
+
+    <section class="featured">
+        <!-- Featured content here -->
+    </section>
+
+    <section class="categories">
+        <!-- Category sections here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Netflix</p>
+    </footer>
+</body>
+</html>
